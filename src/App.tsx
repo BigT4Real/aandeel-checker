@@ -140,7 +140,7 @@ export default function App() {
 
       {/* ── hero ── */}
       <section className="hero">
-        <img className="hero-logo" src="/logo.png" alt="Aandeel Checker logo" />
+        <img className="hero-logo" src="/logo.svg" alt="Aandeel Checker logo" />
         <h1>
           Checklist voor aankoop<br />
           van <em>een aandeel</em>.
