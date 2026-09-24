@@ -1,2 +1,4 @@
 node_modules/
 dist/
+public/logo.ico
+public/logo.b64
