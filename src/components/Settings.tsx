@@ -33,7 +33,7 @@ export default function Settings({ settings, onSave, onClose }: {
           </p>
           <label className="sfield">
             <span>Twelve Data-sleutel (VS + Europa)</span>
-            <input type="text" value={}} draft.tdKey} onChange={setKey('tdKey')} placeholder="bijv. abc123…" />
+            <input type="text" value={draft.tdKey} onChange={setKey('tdKey')} placeholder="bijv. abc123…" />
             <a href="https://twelvedata.com/apikey" target="_blank" rel="noreferrer">Gratis aanvragen (1 minuut) →</a>
           </label>
           <label className="sfield">
